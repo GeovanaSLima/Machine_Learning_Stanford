@@ -16,7 +16,7 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 ### Syllabus
 
-> #### WEEK 1
+> #### [WEEK 1](https://github.com/GeovanaSLima/Machine_Learning_Stanford/tree/main/Week%201)
 > __Introduction__
 > Welcome to Machine Learning! In this module, we introduce the core idea of teaching a computer to learn concepts using data—without being explicitly programmed. The Course Wiki is under construction. Please visit the resources tab for the most complete and up-to-date information.
 >
@@ -35,7 +35,7 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 <br />
 
-> #### WEEK 2
+> #### [WEEK 2](https://github.com/GeovanaSLima/Machine_Learning_Stanford/tree/main/Week%202)
 > __Linear Regression with Multiple Variables__
 > What if your input has more than one value? In this module, we show how linear regression can be extended to accommodate multiple input features. We also discuss best practices for implementing linear regression.
 >
@@ -44,7 +44,8 @@ This course provides a broad introduction to machine learning, datamining, and s
 > __Octave/Matlab Tutorial__
 > This course includes programming assignments designed to help you understand how to implement the learning algorithms in practice. To complete the programming assignments, you will need to use Octave or MATLAB. This module introduces Octave/Matlab and shows you how to submit an assignment.
 >
-> **8. Programming Assignment:** Linear Regression
+> **8.** [**Programming Assignment:** Linear Regression](https://github.com/GeovanaSLima/Machine_Learning_Stanford/tree/main/Week%202/Programming%20Assigment)
+> 
 > **9. Graded:** Octave/Matlab Tutorial
 >
 <br />
